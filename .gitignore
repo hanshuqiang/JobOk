@@ -2,3 +2,4 @@ node_modules
 dist-electron/
 dist/
 config.json
+.DS_Store
